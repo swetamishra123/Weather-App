@@ -43,7 +43,7 @@ To run this weather app locally, follow these steps:
 4. The app will fetch and display the current weather information for the entered city.
 
 ## Live Demo
-You can see a live demo of this Weather App here.
+You can see a live demo of this Weather App [here](https://weather-app-omega-taupe.vercel.app/).
 
 ## Author
 Created by Sweta Mishra
