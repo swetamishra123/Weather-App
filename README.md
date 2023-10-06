@@ -48,4 +48,4 @@ You can see a live demo of this Weather App [here](https://weather-app-omega-tau
 ## Author
 Created by Sweta Mishra
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE file](License) for details.
